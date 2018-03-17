@@ -71,5 +71,8 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+<<<<<<< HEAD
 
 .iml
+=======
+>>>>>>> 30e3b016259cb2036c4e714028268cc7033cd1f3
